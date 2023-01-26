@@ -29,5 +29,6 @@ AtCoder等のオンラインジャッジサイトで必要となるアルゴリ�
   * [数値の全探索](https://github.com/shho-fi/algomethod/tree/main/src/%E5%85%A8%E6%8E%A2%E7%B4%A2/2_%E6%95%B0%E5%80%A4%E3%81%AE%E5%85%A8%E6%8E%A2%E7%B4%A2)
   * [文字列の全探索](https://github.com/shho-fi/algomethod/tree/main/src/%E5%85%A8%E6%8E%A2%E7%B4%A2/3_%E6%96%87%E5%AD%97%E5%88%97%E3%81%AE%E5%85%A8%E6%8E%A2%E7%B4%A2)
   * [二重ループの全探索](https://github.com/shho-fi/algomethod/tree/main/src/%E5%85%A8%E6%8E%A2%E7%B4%A2/4_%E4%BA%8C%E9%87%8D%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E5%85%A8%E6%8E%A2%E7%B4%A2)
+  * [複数の配列の全探索](https://github.com/shho-fi/algomethod/tree/main/src/%E5%85%A8%E6%8E%A2%E7%B4%A2/5_%E8%A4%87%E6%95%B0%E3%81%AE%E9%85%8D%E5%88%97%E3%81%AE%E5%85%A8%E6%8E%A2%E7%B4%A2)
+  * [ペアの全探索](https://github.com/shho-fi/algomethod/tree/main/src/%E5%85%A8%E6%8E%A2%E7%B4%A2/6_%E3%83%9A%E3%82%A2%E3%81%AE%E5%85%A8%E6%8E%A2%E7%B4%A2)
 </details>
-
