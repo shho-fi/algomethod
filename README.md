@@ -26,4 +26,6 @@ AtCoder等のオンラインジャッジサイトで必要となるアルゴリ�
   <summary>全探索</summary>
   
   * [配列の全探索](https://github.com/shho-fi/algomethod/tree/main/src/%E5%85%A8%E6%8E%A2%E7%B4%A2/1_%E9%85%8D%E5%88%97%E3%81%AE%E5%85%A8%E6%8E%A2%E7%B4%A2)
+  * [数値の全探索](https://github.com/shho-fi/algomethod/tree/main/src/%E5%85%A8%E6%8E%A2%E7%B4%A2/2_%E6%95%B0%E5%80%A4%E3%81%AE%E5%85%A8%E6%8E%A2%E7%B4%A2)
 </details>
+
