@@ -21,3 +21,9 @@ AtCoder等のオンラインジャッジサイトで必要となるアルゴリ�
   * [複数の入力を受け取る](https://github.com/shho-fi/algomethod/tree/main/src/%E5%85%A5%E5%8A%9B%E3%82%92%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8B/3_%E8%A4%87%E6%95%B0%E3%81%AE%E5%85%A5%E5%8A%9B%E3%82%92%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8B)
   * [たくさんの入力を受け取る](https://github.com/shho-fi/algomethod/tree/main/src/%E5%85%A5%E5%8A%9B%E3%82%92%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8B/4_%E3%81%9F%E3%81%8F%E3%81%95%E3%82%93%E3%81%AE%E5%85%A5%E5%8A%9B%E3%82%92%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8B)
 </details>
+
+* <details>
+  <summary>全探索</summary>
+  
+  * [配列の全探索](https://github.com/shho-fi/algomethod/tree/main/src/%E5%85%A8%E6%8E%A2%E7%B4%A2/1_%E9%85%8D%E5%88%97%E3%81%AE%E5%85%A8%E6%8E%A2%E7%B4%A2)
+</details>
