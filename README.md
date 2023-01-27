@@ -32,3 +32,10 @@ AtCoder等のオンラインジャッジサイトで必要となるアルゴリ�
   * [複数の配列の全探索](https://github.com/shho-fi/algomethod/tree/main/src/%E5%85%A8%E6%8E%A2%E7%B4%A2/5_%E8%A4%87%E6%95%B0%E3%81%AE%E9%85%8D%E5%88%97%E3%81%AE%E5%85%A8%E6%8E%A2%E7%B4%A2)
   * [ペアの全探索](https://github.com/shho-fi/algomethod/tree/main/src/%E5%85%A8%E6%8E%A2%E7%B4%A2/6_%E3%83%9A%E3%82%A2%E3%81%AE%E5%85%A8%E6%8E%A2%E7%B4%A2)
 </details>
+
+
+* <details>
+  <summary>計算量</summary>
+  
+  * [工夫(1) - for文のループを減らす](https://github.com/shho-fi/algomethod/tree/main/src/%E8%A8%88%E7%AE%97%E9%87%8F/%E5%B7%A5%E5%A4%AB(1)%20-%20for%E6%96%87%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%97%E3%82%92%E6%B8%9B%E3%82%89%E3%81%99)
+</details>
