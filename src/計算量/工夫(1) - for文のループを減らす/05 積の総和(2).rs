@@ -3,8 +3,9 @@
 fn main() {
     read_line();
     let a = read_nums();
-    let sum_a: i64 = a.iter().sum();
-    let sum_doubles: i64 = a.iter().map(|x| x * x).sum();
+    let (sum_a, sum_doubles) = a.iter().fold((0, 0), |(sum_a, sum_doubles), x| {
+        (sum_a + x, sum_doubles + x * x)
+    });
     println!("{}", (sum_a * sum_a - sum_doubles) / 2);
 }
 
