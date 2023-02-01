@@ -8,7 +8,7 @@ fn main() {
         ab: [(usize, usize); q]
     }
     let max_length = 100000;
-    let strings = l.iter().fold(vec![0; max_length], |mut acc, l| {
+    let strings = l.iter().fold(vec![0; max_length + 1], |mut acc, l| {
         acc[*l] += 1;
         acc
     });
