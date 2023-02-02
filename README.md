@@ -40,3 +40,13 @@ AtCoder等のオンラインジャッジサイトで必要となるアルゴリ�
   * [工夫(1) - for文のループを減らす](https://github.com/shho-fi/algomethod/tree/main/src/%E8%A8%88%E7%AE%97%E9%87%8F/%E5%B7%A5%E5%A4%AB(1)%20-%20for%E6%96%87%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%97%E3%82%92%E6%B8%9B%E3%82%89%E3%81%99)
   * [工夫(2) - 累積和](https://github.com/shho-fi/algomethod/tree/main/src/%E8%A8%88%E7%AE%97%E9%87%8F/%E5%B7%A5%E5%A4%AB(2)%20-%20%E7%B4%AF%E7%A9%8D%E5%92%8C)
 </details>
+
+* <details>
+  <summary>さまざまな問題</summary>
+  
+  * [同じ部屋にいた時間](https://github.com/shho-fi/algomethod/blob/main/src/%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E5%95%8F%E9%A1%8C/01%20%E5%90%8C%E3%81%98%E9%83%A8%E5%B1%8B%E3%81%AB%E3%81%84%E3%81%9F%E6%99%82%E9%96%93.rs)
+  * [4と6のFizz Buzz](https://github.com/shho-fi/algomethod/blob/main/src/%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E5%95%8F%E9%A1%8C/02%204%E3%81%A86%E3%81%AEFizz%20Buzz.rs)
+  * [市松模様](https://github.com/shho-fi/algomethod/blob/main/src/%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E5%95%8F%E9%A1%8C/03%20%E5%B8%82%E6%9D%BE%E6%A8%A1%E6%A7%98.rs)
+  * [うるう年判定](https://github.com/shho-fi/algomethod/blob/main/src/%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E5%95%8F%E9%A1%8C/04%20%E3%81%86%E3%82%8B%E3%81%86%E5%B9%B4%E5%88%A4%E5%AE%9A.rs)
+  * [勤怠管理システム](https://github.com/shho-fi/algomethod/blob/main/src/%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E5%95%8F%E9%A1%8C/05%20%E5%8B%A4%E6%80%A0%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0.rs)
+</details>
