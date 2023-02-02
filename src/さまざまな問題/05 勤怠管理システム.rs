@@ -1,4 +1,4 @@
-// https://algo-method.com/tasks/1091
+// https://algo-method.com/tasks/1093
 
 fn main() {
     input! {
