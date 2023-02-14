@@ -49,4 +49,6 @@ AtCoder等のオンラインジャッジサイトで必要となるアルゴリ�
   * [市松模様](https://github.com/shho-fi/algomethod/blob/main/src/%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E5%95%8F%E9%A1%8C/03%20%E5%B8%82%E6%9D%BE%E6%A8%A1%E6%A7%98.rs)
   * [うるう年判定](https://github.com/shho-fi/algomethod/blob/main/src/%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E5%95%8F%E9%A1%8C/04%20%E3%81%86%E3%82%8B%E3%81%86%E5%B9%B4%E5%88%A4%E5%AE%9A.rs)
   * [勤怠管理システム](https://github.com/shho-fi/algomethod/blob/main/src/%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E5%95%8F%E9%A1%8C/05%20%E5%8B%A4%E6%80%A0%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0.rs)
+  * [注文](https://github.com/shho-fi/algomethod/blob/main/src/%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E5%95%8F%E9%A1%8C/06%20%E6%B3%A8%E6%96%87.rs)
+  * [約分](https://github.com/shho-fi/algomethod/blob/main/src/%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E5%95%8F%E9%A1%8C/07%20%E7%B4%84%E5%88%86.rs)
 </details>
