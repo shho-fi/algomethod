@@ -51,4 +51,6 @@ AtCoder等のオンラインジャッジサイトで必要となるアルゴリ�
   * [勤怠管理システム](https://github.com/shho-fi/algomethod/blob/main/src/%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E5%95%8F%E9%A1%8C/05%20%E5%8B%A4%E6%80%A0%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0.rs)
   * [注文](https://github.com/shho-fi/algomethod/blob/main/src/%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E5%95%8F%E9%A1%8C/06%20%E6%B3%A8%E6%96%87.rs)
   * [約分](https://github.com/shho-fi/algomethod/blob/main/src/%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E5%95%8F%E9%A1%8C/07%20%E7%B4%84%E5%88%86.rs)
+  * [アイスの棒(Easy)](https://github.com/shho-fi/algomethod/blob/main/src/%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E5%95%8F%E9%A1%8C/08%20%E3%82%A2%E3%82%A4%E3%82%B9%E3%81%AE%E6%A3%92(Easy).rs)
+  * [曜日計算](https://github.com/shho-fi/algomethod/blob/main/src/%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E5%95%8F%E9%A1%8C/09%20%E6%9B%9C%E6%97%A5%E8%A8%88%E7%AE%97.rs)
 </details>
